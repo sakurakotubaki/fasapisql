@@ -1,0 +1,11 @@
+# requirements.txt
+# パッケージのインストール
+# pip install -r requirements.txt
+fastapi~=0.115.4
+uvicorn
+sqlalchemy~=2.0.36
+pymysql
+python-dotenv
+pydantic-settings~=2.6.1
+starlette~=0.41.2
+pydantic~=2.9.2
